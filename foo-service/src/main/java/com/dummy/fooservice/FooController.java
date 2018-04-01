@@ -17,7 +17,7 @@ public class FooController {
 
     public List<Person> getDummyUsers (){
         return Arrays.asList(new Person(1235, "John", "Doe"),
-                new Person(1239, "jane", "Doe"),
+                new Person(1239, "Jane", "Doe"),
                 new Person(1243, "Joe", "Doe"),
                 new Person(1265, "jean", "Doe"));
     }
